@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  public_account_id: MyString
+  intrger: MyString
+  parent_id: 1
+  name: MyString
+  key: MyString
+  url: MyString
+  is_show: 
+  sort: 1
+
+two:
+  public_account_id: MyString
+  intrger: MyString
+  parent_id: 1
+  name: MyString
+  key: MyString
+  url: MyString
+  is_show: 
+  sort: 1
